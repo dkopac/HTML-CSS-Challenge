@@ -7,3 +7,5 @@ Horiseon Marketing Agency's webpage is now more accessable. The link for the Sea
 Two of the<div>sections are now changed to <header> and <footer>. alt texts were added to each of the selections below for Search Engine Optimization, Online Reputation Management, Social Media Marketing, Lead Generation, Brand Awareness, and Cost Management.
 
 https://github.com/dkopac/Horiseon-Marketing-Agency.git
+
+Code/Assignment was completed with help from tutor.
